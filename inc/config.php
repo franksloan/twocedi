@@ -1,4 +1,4 @@
 <?php
 
-	define("BASE_URL","/twocedi/");
-	define("ROOT_PATH", $_SERVER["DOCUMENT_ROOT"] . "/twocedi/");
+	define("BASE_URL","/twocedi/twocedi/");
+	define("ROOT_PATH", $_SERVER["DOCUMENT_ROOT"] . "/twocedi/twocedi/");

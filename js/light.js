@@ -1,3 +1,5 @@
+//Picture pop up js
+
 var $overlay = $('<div id="overlay"></div>');
 var $image = $("<img>");
 var $caption = $("<p></p>");

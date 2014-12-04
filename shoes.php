@@ -4,6 +4,7 @@
     $m1 = "";
     $m2 = "active dropdown";
     $m3 = "dropdown";
+    $m4 = "";
     include(ROOT_PATH . 'inc/header-inc.php');
     include(ROOT_PATH . 'inc/form-inc.php'); ?>
 
@@ -24,8 +25,8 @@
             </a>
           </div>
           <div class="col-xs-6 col-md-3">
-            <a href="img/shoes/shoes4.jpg" class="thumbnail">
-              <img src="img/shoes/shoes4.jpg" data-src="holder.js/100%x180" alt="...">
+            <a href="img/shoes/shoe11.jpg" class="thumbnail">
+              <img src="img/shoes/shoe11.jpg" data-src="holder.js/100%x180" alt="...">
             </a>
           </div>
           <div class="col-xs-6 col-md-3">
@@ -36,23 +37,35 @@
         </div>
         <div class="row">
           <div class="col-xs-6 col-md-3">
-            <a href='img/shoes/shoes1.jpg' class="thumbnail">
-              <img src="img/shoes/shoes1.jpg" data-src="holder.js/100x180" alt="Blue and red pocket designs">
+            <a href='img/shoes/shoe13.jpg' class="thumbnail">
+              <img src="img/shoes/shoe13.jpg" data-src="holder.js/100x180" alt="Blue and red pocket designs">
             </a>
           </div>
           <div class="col-xs-6 col-md-3">
-            <a href="img/shoes/shoes7.jpg" class="thumbnail">
-              <img src="img/shoes/shoes7.jpg" data-src="holder.js/100%x180" alt="...">
+            <a href="img/shoes/shoe10.jpg" class="thumbnail">
+              <img src="img/shoes/shoe10.jpg" data-src="holder.js/100%x180" alt="...">
             </a>
           </div>
           <div class="col-xs-6 col-md-3">
-            <a href="img/shoes/shoes5.jpg" class="thumbnail">
-              <img src="img/shoes/shoes5.jpg" data-src="holder.js/100%x180" alt="...">
+            <a href="img/shoes/shoe14.jpg" class="thumbnail">
+              <img src="img/shoes/shoe14.jpg" data-src="holder.js/100%x180" alt="...">
             </a>
           </div>
           <div class="col-xs-6 col-md-3">
             <a href="img/shoes/shoes6.jpg" class="thumbnail">
               <img src="img/shoes/shoes6.jpg" data-src="holder.js/100%x180" alt="...">
+            </a>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-6 col-md-3">
+            <a href='img/shoes/shoe15.jpg' class="thumbnail">
+              <img src="img/shoes/shoe15.jpg" data-src="holder.js/100x180" alt="Blue and red pocket designs">
+            </a>
+          </div>
+          <div class="col-xs-6 col-md-3">
+            <a href="img/shoes/shoe8.jpg" class="thumbnail">
+              <img src="img/shoes/shoe8.jpg" data-src="holder.js/100%x180" alt="...">
             </a>
           </div>
         </div>

@@ -4,6 +4,7 @@
     $m1 = "active";
     $m2 = "dropdown";
     $m3 = "dropdown";
+    $m4 = "";
     include(ROOT_PATH . 'inc/header-inc.php'); ?>
 
     <div id="homeslide" class="carousel slide jumbotron">
