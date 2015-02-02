@@ -10,13 +10,27 @@
 
     <div class="container">
       <div class="row">
-        <h2>Shoes</h2>
+        <div class="header">
+          <div class="col-xs-3">
+            <h2>Shoes</h2>
+          </div>
+          <div class="col-xs-9">
+            <nav>
+              <ul class="pagination">
+                <li><a href="#"><span aria-hidden="true">&laquo;</span><span class="sr-only">Previous</span></a></li>
+                <li class="active"><a href="shoes.php">1</a></li>
+                <li><a href="shoes2.php">2</a></li>
+                <li><a href="shoes2.php"><span aria-hidden="true">&raquo;</span><span class="sr-only">Next</span></a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
       </div>
       <div id="imageGallery">
         <div class="row">
           <div class="col-xs-6 col-md-3">
             <a href='img/shoes/shoes2.jpg' class="thumbnail">
-              <img src="img/shoes/shoes2.jpg" data-src="holder.js/100x180" alt="Blue and red pocket designs">
+              <img src="img/shoes/shoes2.jpg" data-src="holder.js/100x180" alt="...">
             </a>
           </div>
           <div class="col-xs-6 col-md-3">
@@ -38,7 +52,7 @@
         <div class="row">
           <div class="col-xs-6 col-md-3">
             <a href='img/shoes/shoe13.jpg' class="thumbnail">
-              <img src="img/shoes/shoe13.jpg" data-src="holder.js/100x180" alt="Blue and red pocket designs">
+              <img src="img/shoes/shoe13.jpg" data-src="holder.js/100x180" alt="...">
             </a>
           </div>
           <div class="col-xs-6 col-md-3">
@@ -54,18 +68,6 @@
           <div class="col-xs-6 col-md-3">
             <a href="img/shoes/shoes6.jpg" class="thumbnail">
               <img src="img/shoes/shoes6.jpg" data-src="holder.js/100%x180" alt="...">
-            </a>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-6 col-md-3">
-            <a href='img/shoes/shoe15.jpg' class="thumbnail">
-              <img src="img/shoes/shoe15.jpg" data-src="holder.js/100x180" alt="Blue and red pocket designs">
-            </a>
-          </div>
-          <div class="col-xs-6 col-md-3">
-            <a href="img/shoes/shoe8.jpg" class="thumbnail">
-              <img src="img/shoes/shoe8.jpg" data-src="holder.js/100%x180" alt="...">
             </a>
           </div>
         </div>

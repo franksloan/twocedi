@@ -12,6 +12,7 @@
         <ol class="carousel-indicators">
           <li class="active" data-target="#homeslide" data-slide-to="0"></li>
           <li data-target="#homeslide" data-slide-to="1"></li>
+          <li data-target="#homeslide" data-slide-to="2"></li>
         </ol>
         <div class="carousel-inner">
           <div class="item active">
@@ -19,6 +20,10 @@
               <h1>New twocedi styles</h1>
               <p class="lead">Check out the new range!</p>
             </a>
+          </div>
+          <div class="item">
+            <h1>Tumblr</h1>
+            <p>The most recent updates and styles for twocedi</p>
           </div>
           <div class="item">
             <h1>Contact us</h1>

@@ -4,7 +4,6 @@ var $overlay = $('<div id="overlay"></div>');
 var $image = $("<img>");
 var $caption = $("<p></p>");
 
-
 $overlay.append($image);
 $overlay.append($caption);
 

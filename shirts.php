@@ -11,10 +11,10 @@
     <div class="container">
       <div class="row">
         <div class="header">
-          <div class="col-xs-6">
+          <div class="col-xs-3">
             <h2>Fabric tees</h2>
           </div>
-          <div class="col-xs-6">
+          <div class="col-xs-9">
             <nav>
               <ul class="pagination">
                 <li><a href="#"><span aria-hidden="true">&laquo;</span><span class="sr-only">Previous</span></a></li>
@@ -32,7 +32,7 @@
         <div class="row">
           <div class="col-xs-6 col-md-3">
             <a href='img/tees/1.jpg' class="thumbnail">
-              <img src="img/tees/1.jpg" src="holder.js/100x180" alt="Blue and red pocket designs">
+              <img src="img/tees/1.jpg" src="holder.js/100x180" alt="...">
             </a>
           </div>
           <div class="col-xs-6 col-md-3">
@@ -54,7 +54,7 @@
         <div class="row">
           <div class="col-xs-6 col-md-3">
             <a href='img/tees/7.jpg' class="thumbnail">
-              <img src="img/tees/7.jpg" data-src="holder.js/100x180" alt="Blue and red pocket designs">
+              <img src="img/tees/7.jpg" data-src="holder.js/100x180" alt="...">
             </a>
           </div>
           <div class="col-xs-6 col-md-3">
